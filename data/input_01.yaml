@@ -1,0 +1,13 @@
+- name: book
+  excempt: true
+  quantity: 2
+  value: 12.49
+- name: music cd
+  excempt: false
+  quantity: 1
+  value: 14.99
+- name: chocolate bar
+  excempt: true
+  quantity: 1
+  value: 0.85        
+

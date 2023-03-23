@@ -1,0 +1,6 @@
+- name: box of chocolate
+  imported: true
+  excempt: true
+  quantity: 3
+  value: 11.25      
+

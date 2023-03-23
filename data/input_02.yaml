@@ -1,0 +1,9 @@
+- name: box of chocolates
+  imported: true
+  excempt: true
+  quantity: 1
+  value: 10
+- name: bottle of perfume
+  imported: true
+  quantity: 1
+  value: 47.50

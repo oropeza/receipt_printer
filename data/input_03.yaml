@@ -1,0 +1,21 @@
+- name: bottle of perfume
+  imported: true
+  excempt: false
+  quantity: 1
+  value: 27.99
+- name: bottle of perfume
+  imported: false
+  excempt: false
+  quantity: 1
+  value: 18.99
+- name: packet of headache pills
+  imported: false
+  excempt: true
+  quantity: 1
+  value: 9.75
+- name: box of chocolate
+  imported: true
+  excempt: true
+  quantity: 3
+  value: 11.25      
+
